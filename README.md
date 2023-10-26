@@ -1,5 +1,5 @@
 # DES424_6322772334
-This is a test program for DES424 (your student ID).
+This is a test program for DES424 (6322772334).
 ### Table of contents
 * [Required Software](#required-software)
 * [Installation](#installation)
